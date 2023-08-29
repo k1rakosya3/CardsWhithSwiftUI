@@ -73,7 +73,7 @@ struct CardView: View {
                         .shadow(color: .black.opacity(0.5), radius: 0.25, x: 1, y: 2)
                 }
                 .buttonStyle(CustomButtonStyle())
-                } // ZSTACK
+                } // VSTACK
             } // ZSTACK
         .frame(width: 320, height: 570)
     }

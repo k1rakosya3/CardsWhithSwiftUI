@@ -42,7 +42,7 @@ struct SettingsView: View {
                                                 endPoint: .bottom))
                 .padding(.top, 8)
                 VStack(spacing: 8) {
-                    Text("Where can you find \nperfeact tracks?")
+                    Text("Where can you find \nperfect tracks?")
                         .font(.title)
                         .fontWeight(.heavy)
                     Text("The hike which looks georgeous in photos but is even better once you are actually there. The hike that you hope to do again someday. \nFind the best day hikes in the app.")
